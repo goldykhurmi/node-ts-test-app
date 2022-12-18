@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
   <file path="D:\Sukhbir files\me\tactable-test\my-test-app\tests\unit-tests\todo.spec.ts">
-    <testCase name="Todo Test Case Verify todo Api call is working" duration="85"/>
+    <testCase name="Todo Test Case Verify todo Api call is working" duration="110"/>
   </file>
   <file path="D:\Sukhbir files\me\tactable-test\my-test-app\tests\integration-tests\app.integration.spec.ts">
-    <testCase name="Client Injection Test Case Verify if client is intected" duration="85"/>
+    <testCase name="Client Injection Test Case Verify if client is intected" duration="70"/>
   </file>
 </testExecutions>
